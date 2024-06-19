@@ -1,2 +1,9 @@
 # Data-Science
-Object detection is a computer vision technology that identifies and locates objects within images or videos. It uses methods like neural networks to detect multiple objects at once. This technology is used in areas like self-driving cars, security systems, and retail.
+A movie recommendation project suggests films based on user preferences and viewing history using machine learning algorithms like collaborative filtering or content-based filtering. It aims to enhance user satisfaction by offering personalized movie suggestions tailored to individual tastes and interests.
+
+
+
+
+
+
+
